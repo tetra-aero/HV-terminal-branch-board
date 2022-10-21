@@ -5,13 +5,13 @@
       "Application": "Pcbnew",
       "Version": "6.0.1-79c1e3a40b~116~ubuntu20.04.1"
     },
-    "CreationDate": "2022-10-21T13:20:20+09:00"
+    "CreationDate": "2022-10-21T13:42:04+09:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
       "Name": "HV-terminal-branch-board",
       "GUID": "48562d74-6572-46d6-996e-616c2d627261",
-      "Revision": "rev?"
+      "Revision": "1.0"
     },
     "Size": {
       "X": 80.1,
@@ -24,8 +24,8 @@
   "DesignRules": [
     {
       "Layers": "Outer",
-      "PadToPad": 0.2,
-      "PadToTrack": 0.2,
+      "PadToPad": 0.0,
+      "PadToTrack": 0.0,
       "TrackToTrack": 0.2,
       "MinLineWidth": 6.0,
       "TrackToRegion": 0.508,
